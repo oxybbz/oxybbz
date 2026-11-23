@@ -1,4 +1,6 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm OxY ntg OVi</h1>
+<div align="center">  <img src="https://www.gitskins.com/api/readme-reference/hero?username=oxybbz&theme=neon&role=Product-minded%20developer&location=Building%20from%20the%20open%20web&v=readme-reference-2" width="100%" alt="Oxy ntg Ovi profile banner" />  <br/>  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=600&size=26&pause=900&color=7DF9FF&center=true&vCenter=true&width=900&height=66&lines=Product-minded%20developer;%E2%9A%A1%20Silent%20Coder%20%7C%20Digital%20Explorer%20%F0%9F%92%BB%20Python%20Develo%E2%80%A6;Building%20with%20code;Always%20coding%20%C2%B7%20learning%20%C2%B7%20shipping%20%F0%9F%9A%80" alt="" /></a>
+
+<br/>  <a href="https://github.com/oxybbz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;labelColor=0d1117" alt="GitHub" /></a>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=oxybbz">
