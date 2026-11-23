@@ -56,6 +56,13 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=oxybbz&theme=radical&radius=10" alt="oxybbz's Activity Graph" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+
 
 ## 🛠️ Languages & Tools
 
